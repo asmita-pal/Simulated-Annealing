@@ -1,4 +1,4 @@
-# Simulated-Annealing
+# Simulated Annealing
 Simulated Annealing algorithm for a Slicing Floorplan. 
 
 1. Parameters
